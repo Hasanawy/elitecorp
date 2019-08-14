@@ -1,0 +1,7 @@
+FTP Details
+Connection details for FTP clients. help
+Please login to the control panel to enable FTP access.
+FTP Username	epiz_24327152
+FTP Password	Tr7CKwSgvX
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
